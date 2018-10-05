@@ -27,5 +27,5 @@ and try three different algorithms solving the OneMax problem. It also has a pre
 ## Run code
 
 To run the code use the python program comparison-evolutionary-algorithms/code/master.py and run it using the
-flags explained on  	comparison-evolutionary-algorithms/Dissertation Report.pdf or use -h when running the
-script to get more information on usage.
+command-line arguments explained on comparison-evolutionary-algorithms/Dissertation Report.pdf or use the 
+argument -h when running the script to get more information on usage.
