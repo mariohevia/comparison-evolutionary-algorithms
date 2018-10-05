@@ -1,12 +1,12 @@
-## Comparison and modification of self-adjusting evolutionary algorithms.
-
-# Abstract
+# Comparison and modification of self-adjusting evolutionary algorithms.
+## Abstract
 Evolutionary algorithms (EA) are population-based optimization algorithms that mimic
 evolution to search for an (near-)optimal solution. A key topic in EA research is the
 amount of evaluations or generations used to solve a problem. The research is generally
 focused on parameter optimization and most of the research focuses on static parameters,
 but lately started to focus on dynamic parameters that are success based and does not
 need information about the problem.
+
 The aim of the project is to make empirical evaluations of some of these success based
 parameter optimizitations. The main algorithms that are tested in the project are the
 self-adjusting mutation rate (1 + λ) EA (Doerr et al., 2017), self-adjusting offspring
