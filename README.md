@@ -18,3 +18,14 @@ In this work is shown a comparison and discussion of the optimization times, and
 a proposed new metric to capture the parallel and sequential optimization time. From
 the modifications made a new selection scheme emerged that improves up to 20% in the
 number of evaluations needed by the self-adjusting (1 + (λ, λ)) GA on OneMax.
+
+## Run demo
+
+To run a demo on a Jupyter notebook, you can download open comparison-evolutionary-algorithms/code/Demo.ipynb 
+and try three different algorithms solving the OneMax problem. It also has a presentation format.
+
+## Run code
+
+To run the code use the python program comparison-evolutionary-algorithms/code/master.py and run it using the
+flags explained on  	comparison-evolutionary-algorithms/Dissertation Report.pdf or use -h when running the
+script to get more information on usage.
